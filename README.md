@@ -63,17 +63,19 @@ Check-out a copy of this repository into a separate project folder (this way you
 
 #### Windows
 Run Command Prompt as an administrator and execute the commands:
-<code>
-    mklink /J "/Path/To/Project/Folder/content/dota_addons/defense_of_the_forts" "/Path/To/Dota/Files/content/dota_addons/defense_of_the_forts"
-    mklink /J "/Path/To/Project/Folder/game/dota_addons/defense_of_the_forts" "/Path/To/Dota/Files/game/dota_addons/defense_of_the_forts"
-</code>
+
+<code>mklink /J "/Path/To/Project/Folder/content/dota_addons/defense_of_the_forts" "/Path/To/Dota/Files/content/dota_addons/defense_of_the_forts"</code>
+
+</code>mklink /J "/Path/To/Project/Folder/game/dota_addons/defense_of_the_forts" "/Path/To/Dota/Files/game/dota_addons/defense_of_the_forts"</code>
+
 
 #### Linux and MacOS
 Open the terminal and run the following commands:
-<code>
-    ln "/Path/To/Dota/Files/content/dota_addons/defense_of_the_forts" "/Path/To/Project/Folder/content/dota_addons/defense_of_the_forts"
-    ln "/Path/To/Dota/Files/game/dota_addons/defense_of_the_forts" "/Path/To/Project/Folder/game/dota_addons/defense_of_the_forts" 
-</code>
+
+<code>ln "/Path/To/Dota/Files/content/dota_addons/defense_of_the_forts" "/Path/To/Project/Folder/content/dota_addons/defense_of_the_forts"</code>
+
+<code>ln "/Path/To/Dota/Files/game/dota_addons/defense_of_the_forts" "/Path/To/Project/Folder/game/dota_addons/defense_of_the_forts"</code>
+
 
 We do these steps to ensure separation between the versioned project folder and the unversioned dota files. I know it would have been better to do it the other way around (create the links in the Dota folder as opposed to moving the original folders there), but the Workshop tools can't deal with links while Git and SVN can. If this feels too finicky, I understand if you opt to do the easy way. If you have tried this way and have not succeeded, even if you have followed every step correctly, I recommend you do it the easy way instead.
 
