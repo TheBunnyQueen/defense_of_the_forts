@@ -3,13 +3,18 @@
 
 ## Introduction
 As someone who has spent countless hours playing both games, I've always had the interest of combining the two to see what would happen, specifically TF2 classes, art-style and feel into Dota 2's items and mechanics.
+
 I would not have created a GitHub repository if I did not intend this to be a community-driven, high-scale project. Realistically, not many people will work on it, but I'm counting on you to help me make this more than just a mere mod - a true homage to two great games. What I mean by this is that I intend to import character models, materials, particles, voice-lines and soundscaping from TF2's source files, making a TF2 skin for the original map, "Roboshan", and much, much more. In the end, I want this to feel like almost more like a TF2 mod than a Dota one, except for the mechanics and such.
+
 As described above, I want this to be a very high-fidelity mod, so whenever you read the word "re-modelled" assume that is not limitted to switching models, but instead making all cosmetic changes possible in order to make whatever is being re-modelled look and feel great.
 
 ## Gameplay
 In total there would be 18 heroes; one for each class of each color. Players may choose from the pool of heroes only classes that correspond to their colors (Radiant is Red and Dire is Blu), and there would not be a banning stage at the beginning of the match seeing as there would only be 9 heroes to choose from.
+
 As any normal game of Dota, heroes are expected to farm and become strong to destroy the enemy's Ancient, which in this case would be re-modelled to be a Nuclear Silo or some such TF2-esque nonsense we all know and love. Creeps would be remodelled to be Mann-vs-Machine robots, having their high-lights recollored to match whichever side they spawned from. Melee creeps are Robo-Scouts with bats and ranged creeps are Robo-Scouts with scatterguns (creative, I know). Siege creeps would likely be re-modeled to be either tanks or payloads outfitted with a cannon, or just to be either Robo-Demoman or Robo-Soldier.
+
 As mentioned previously, the map will also be out-fitted with a TF2 terrain, changing the Radiant to look like a Red base (with a rural look) and changing the Dire to look like a Blu base (with an industrial look).
+
 As I have teased, I also intend to have Roshan fully re-modelled with a brand new model and soundscape as Roboshan, a huge mechanical beast in the image of Roshan, but with the MvM twist.
 
 ## Road-map
@@ -54,6 +59,7 @@ Before any of the following steps, make sure you have both Dota 2, Dota 2 Worksh
 
 ### The Easy Way
 Simply download the repository as a .zip file and extract the "content" and "game" folders to your Dota 2 game files location, most commonly located at C:/Program Files (x86)/Steam/steamapps/dota 2 beta/. The extraction should merge these folders with the correponding folders in the target location and automatically create the defense_of_the_forts addon in the Custom Game section of the Workshop Tools when you open them.
+
 This way is quick and simple, however whenever there's an update to the main branch of the project you will need to re-do this step in order to merge the current working version with your own work.
 
 ### The Complicated Way
