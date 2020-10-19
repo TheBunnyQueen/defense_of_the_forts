@@ -66,7 +66,7 @@ Run Command Prompt as an administrator and execute the commands:
 
 <code>mklink /J "/Path/To/Project/Folder/content/dota_addons/defense_of_the_forts" "/Path/To/Dota/Files/content/dota_addons/defense_of_the_forts"</code>
 
-</code>mklink /J "/Path/To/Project/Folder/game/dota_addons/defense_of_the_forts" "/Path/To/Dota/Files/game/dota_addons/defense_of_the_forts"</code>
+<code>mklink /J "/Path/To/Project/Folder/game/dota_addons/defense_of_the_forts" "/Path/To/Dota/Files/game/dota_addons/defense_of_the_forts"</code>
 
 
 #### Linux and MacOS
