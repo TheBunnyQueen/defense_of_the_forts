@@ -5,7 +5,7 @@ Engineer
     <tr>
         <td style="color:#ed3b01">STR: 13 +1.2</td>
         <td style="color:#21e12c">AGI: 18 +2.5</td>
-        <td style="color:#016cdb"><u>INT: 30 +3.3</u></td>
+        <td style="color:#016cdb"><b>INT: 30 +3.3</b></td>
     </tr>
     <tr>
         <td>HP Regen: 1</td>
@@ -136,17 +136,17 @@ LEVEL 3 SENTRY HEALTH: 600<br/>
 LEVEL 3 SENTRY ARMOR: 10<br/>
 LEVEL 3 SENTRY DAMAGE: 20<br/>
 LEVEL 3 SENTRY ATTACK TIME: 0.135<br/>
-LEVEL 3 SENTRY ROCKET DAMAGE: 300<BR/>
+LEVEL 3 SENTRY ROCKET DAMAGE: 300<br/>
 LEVEL 3 SENTRY ROCKET EXPLOSION RADIUS: 250
 
 **[ALT] Sentries become inactive for 1 second while transitioning to their next level.**
 
-MAX SENTRY LEVEL: 1/2/3
-SENTRY DAMAGE: 30
+MAX SENTRY LEVEL: 1/2/3<br/>
+SENTRY DAMAGE: 30<br/>
 SENTRY ATTACK RANGE: 650
 
-CAST RANGE: 175
-MANA COST: 300
+CAST RANGE: 175<br/>
+MANA COST: 300<br/>
 COOLDOWN: 120/90/60
 
 ---
@@ -156,8 +156,8 @@ Ally Heroes
 
 Provides healing and mana for nearby heroes.
 
-HEALTH REGEN: 10/15/20/25
-MANA REGEN: 2%/3%/4%/5%
+HEALTH REGEN: 10/15/20/25<br/>
+MANA REGEN: 2%/3%/4%/5%<br/>
 RADIUS: 175
 
 ---
@@ -263,7 +263,7 @@ Replaces the Deploy Sentry Gun with the Deploy Mini Sentry ability. Mini sentrie
 When the Sentry Gun is destroyed, the Engineer receives Critical Hit charges according to the ammount kills the Sentry Gun accumulated. One hero kill provides 2 criticals, and every 4 unit kills provide 1 critical.
 
 ### Rescue Ranger
-Adds 150 attack range. Increases the range of "Fix" and "Haul" to 600, and increases the Mana Cost of "Haul" to 100. That mana is refunded if "Haul" is used on a target within 175 units of the Engineer.
+Adds 150 attack range. Increases the range of "Fix" and "Haul" to 600, and increases the Mana Cost of "Haul" to 100. Costs no mana if "Haul" is used on a target within 175 units of the Engineer.
 
 ---
 
