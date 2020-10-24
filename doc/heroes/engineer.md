@@ -1,7 +1,7 @@
 Engineer
 ==========
 
-<table style="none">
+<table>
     <tr>
         <td>STR: 13 +1.2</td>
         <td>AGI: 18 +2.5</td>
