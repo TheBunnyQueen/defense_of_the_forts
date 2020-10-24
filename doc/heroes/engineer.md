@@ -3,9 +3,9 @@ Engineer
 
 <table>
     <tr>
-        <td style="color:#ed3b01">STR: 13 +1.2</td>
-        <td style="color:#21e12c">AGI: 18 +2.5</td>
-        <td style="color:#016cdb"><b>INT: 30 +3.3</b></td>
+        <td>STR: 13 +1.2</td>
+        <td>AGI: 18 +2.5</td>
+        <td><b>INT: 30 +3.3</b></td>
     </tr>
     <tr>
         <td>HP Regen: 1</td>
